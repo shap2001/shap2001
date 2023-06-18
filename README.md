@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shap2001
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning the odin projecg
+- 🌱 I’m currently learning the odin project
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me on twitter @shap2001
 
