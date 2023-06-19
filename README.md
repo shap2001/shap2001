@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning the odin project
 - 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me on twitter @shap2001
+- 📫 Reach me on twitter @shap2001
 
 <!---
 shap2001/shap2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
